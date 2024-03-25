@@ -1,0 +1,9 @@
+D:\Users\For WEBTOON\PROGRAMMING\C#\Fraction\Fraction\bin\Debug\Fraction.exe
+D:\Users\For WEBTOON\PROGRAMMING\C#\Fraction\Fraction\bin\Debug\Fraction.pdb
+D:\Users\For WEBTOON\PROGRAMMING\C#\Fraction\Fraction\obj\Debug\Fraction.csproj.AssemblyReference.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\Fraction\Fraction\obj\Debug\Fraction.Form1.resources
+D:\Users\For WEBTOON\PROGRAMMING\C#\Fraction\Fraction\obj\Debug\Fraction.Properties.Resources.resources
+D:\Users\For WEBTOON\PROGRAMMING\C#\Fraction\Fraction\obj\Debug\Fraction.csproj.GenerateResource.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\Fraction\Fraction\obj\Debug\Fraction.csproj.CoreCompileInputs.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\Fraction\Fraction\obj\Debug\Fraction.exe
+D:\Users\For WEBTOON\PROGRAMMING\C#\Fraction\Fraction\obj\Debug\Fraction.pdb
